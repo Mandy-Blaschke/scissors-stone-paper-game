@@ -4,4 +4,3 @@
 - Entstanden im Rahmen meines Selbststudiums
 - Zweites Projekt, in dem ich JavaScript genutzt habe
 - Ohne Framework erstellt
-- Spielbar unter [Schere-Stein-Papier-Spiel](https://mb-schere-stein-papier.web.app/)
